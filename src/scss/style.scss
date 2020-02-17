@@ -1,11 +1,11 @@
 //Lib
 @import "lib/normalize",
-@import "lib/font-awesome.min";
+ "lib/font-awesome.min";
 
 //Core
 @import "core/vars",
 "core/mixins",
-"core/global";
+"core/global",
 "core/fonts";
 
 //Modules
